@@ -1,0 +1,1 @@
+uvicorn async_main:app --reload
